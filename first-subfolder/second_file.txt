@@ -2,4 +2,5 @@ Second file
 
 Changes made in the main branch
 
-Новая запись
+Новая запись (some text)
+"" Другое описание "
